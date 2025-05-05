@@ -1,0 +1,43 @@
+# 1. Python byte‑code and native extensions
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# 2. Virtual‑environment folders
+env/
+venv/
+.venv/
+
+# 3. Jupyter & IDE artefacts
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+
+# 4. Model checkpoints, logs, outputs
+outputs/
+*.pt
+*.bin
+*.ckpt
+*.onnx
+*.log
+runs/
+
+# 5. Local datasets and archives
+data/
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.h5
+*.npz
+*.npy
+
+# 6. OS / IDE miscellany
+.DS_Store
+Thumbs.db
+.idea/
