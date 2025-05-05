@@ -41,10 +41,4 @@ Full training (3 epochs, batch 32) writes three checkpoints to `outputs/`:
 
 ---
 
-## License
-
-MIT License – see `LICENSE` (feel free to reuse with citation).
-
----
-
 > *For any issues please open a discussion or contact the author (wangj29@tcd.ie).*
